@@ -1,0 +1,10 @@
+Git revert
+Undo the changes:
+$ git revert
+Revert a particular commit:
+$ git revert
+Git reset
+Reset the changes:
+$ git reset -hard
+$ git reset -soft:
+$ git reset --mixed
